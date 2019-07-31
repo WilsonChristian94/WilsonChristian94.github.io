@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "5cd6d3d82bea46656be55336",
+    "title": "How to setup the app",
+    "content": "Watch the video to know how to configure the app for parent and child",
+    "url": "https://youtu.be/ESWx7A6XwNk",
+    "createdAt": "2019-05-11T13:53:28.608Z",
+    "updatedAt": "2019-05-11T13:53:28.608Z",
+    "__v": 0
+  },
+  {
+    "_id": "5d1a0005bb91f27d5b73ba1b",
+    "title": "App Usage",
+    "content": "How to use 'App Usage' feature",
+    "url": "https://www.youtube.com/watch?v=0EWCCqzy7_Q",
+    "createdAt": "2019-07-01T12:43:49.897Z",
+    "updatedAt": "2019-07-01T12:43:49.897Z",
+    "__v": 0
+  }
+]
