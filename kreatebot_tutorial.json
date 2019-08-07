@@ -1,7 +1,37 @@
 [
-  {
-      "title": "Greeting Text",
-      "content": "Watch how to use greeting text",
-      "url": "https://www.youtube.com/watch?v=9nehfHvvu54"
-    }
+    {
+		"title": "Overview",
+		"content": "Quickly get an overview of all the features given by this app",
+		"url": "https://www.youtube.com/watch?v=dDl-SlEh4Js&t=5s"
+	},
+	{
+		"title": "Greeting Text",
+		"content": "Watch how to use greeting text",
+		"url": "https://www.youtube.com/watch?v=9nehfHvvu54"
+	},
+	{
+		"title": "Welcome Message",
+		"content": "Watch how to use welcome message",
+		"url": "https://www.youtube.com/watch?v=ROl37S0Zqn4"
+	},
+	{
+		"title": "Default Reply",
+		"content": "Watch how to use default reply",
+		"url": "https://www.youtube.com/watch?v=YXuBsOvhwGg"
+	},
+	{
+		"title": "Keyword reply",
+		"content": "Watch how to use keywords reply",
+		"url": "https://www.youtube.com/watch?v=3ypoLEGIOvM"
+	},
+	{
+		"title": "Create Menu",
+		"content": "Watch how to use create menu",
+		"url": "https://www.youtube.com/watch?v=DoAKITfd26g"
+	},
+	{
+		"title": "Message Subscribers",
+		"content": "Watch how to use message subscribers",
+		"url": "https://www.youtube.com/watch?v=-iwz0wuP1ZE"
+	}
 ]
